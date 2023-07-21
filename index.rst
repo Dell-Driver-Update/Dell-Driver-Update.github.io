@@ -6,16 +6,16 @@ Dell Driver Update- The unique link between your Dell PC and Devices
 |
 
 .. image:: TECH_S.png
-	  :width: 50px    
+	  :width: 200px    
 	  :align: center   
-	  :height: 100px  
+	  :height: 200px  
 	  :alt: Dell Driver Update  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 |
 
 
-**Get into the dell driver update world**. Your Dell PC's functions and coordination with other devices and operating system running on your PC are in the hands of `Dell Driver Update<https://dell-driver-updategithubio.readthedocs.io/>`_. To get your PC work accomplished with best of its efficiency **dell driver update** is here to do this for you . It lets computer to remain protected and work with utmost accuracy.
+**Get into the dell driver update world**. Your Dell PC's functions and coordination with other devices and operating system running on your PC are in the hands of `Dell Driver Update <https://dell-driver-update.readthedocs.io/>`_ . To get your PC work accomplished with best of its efficiency **dell driver update** is here to do this for you . It lets computer to remain protected and work with utmost accuracy.
 
 
 
@@ -23,7 +23,7 @@ Dell Driver Update- The unique link between your Dell PC and Devices
 Why to go go for dell driver update?
 *********************************
 
-Get ` Dell Driver Update<https://dell-driver-updategithubio.readthedocs.io/>`_ and enjoy in-hand benefits :-
+Get `Dell Driver Update <https://dell-driver-update.readthedocs.io/>`_ and enjoy in-hand benefits :-
  
 ===============
 Hit critical issues -
@@ -38,7 +38,7 @@ It is best of the features to provide updates and notification , without user's 
 =================
 Supports varied laptops - 
 =================
-Dell Inspiron, Vostro, XPS,etc are some of the instances of laptops supported by ` Dell Driver Update<https://dell-driver-updategithubio.readthedocs.io/>`_ software
+Dell Inspiron, Vostro, XPS,etc are some of the instances of laptops supported by `Dell Driver Update <https://dell-driver-update.readthedocs.io/>`_  software
 Compatibility with Windows-dell driver update facilitates its Windows users with its prime benefits.
 
 
@@ -48,15 +48,15 @@ Compatibility with Windows-dell driver update facilitates its Windows users with
 	  :align: center   
 	  :height: 100px  
 	  :alt: Dell Driver Update  
-	  :target: https://dell-driver-updategithubio.readthedocs.io/
+	  :target: https://dell-driver-update.readthedocs.io
 
 
 
-***********************************************
+***************************
 Gateway to Dell driver download  and installation
-********************************************
+***************************
 
-1.  Visit  Dell website where ` Dell Driver Update<https://dell-driver-updategithubio.readthedocs.io/>`_ are available .
+1.  Visit  Dell website where `Dell Driver Update <https://dell-driver-update.readthedocs.io/>`_ are available .
 2. Then get your Dell product identified
 3. You need to tap **Download & Install Support Assist**.
      This allows to determine dell product automatically.
