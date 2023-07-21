@@ -44,9 +44,9 @@ Compatibility with Windows-dell driver update facilitates its Windows users with
 
 
 .. image:: DELL-DR-UPDATE.png
-	  :width: 350px    
+	  :width: 500px    
 	  :align: center   
-	  :height: 100px  
+	  :height: 400px  
 	  :alt: Dell Driver Update  
 	  :target: https://dell-driver-update.readthedocs.io
 
