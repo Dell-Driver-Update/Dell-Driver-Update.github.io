@@ -44,7 +44,7 @@ Compatibility with Windows-dell driver update facilitates its Windows users with
 This allows to determine dell product automatically.
 4. You need to look for on-screen prompts.
 5. Select **'Check for Updates'**.
-6. Get to know the location for driver download via ***Keyword search box**   ***Operating System & Category filters**
+6. Get to know the location for driver download via **(a)Keyword search box**   **(b)Operating System & Category filters**
 7. Download driver by clicking on Download button
 8. On Windows Explorer , reach downloaded file .
 9. Further Double-click **.exe driver installation file**. 
