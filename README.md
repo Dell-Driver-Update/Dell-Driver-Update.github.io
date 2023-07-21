@@ -17,23 +17,22 @@
 
 Get [**Dell driver updates**]() and enjoy in-hand benefits :-
  
-===============
-*Hit critical issues -
-=================
+
+### Hit critical issues -
+
 This is especially designed for consumers and computers of clients . Moreover they are liable to get device drivers updated and critical issues addressed .
 
-=================
-*Self-updation system -
-=================
+
+### Self-updation system -
+
 It is best of the features to provide updates and notification , without user's need to check it .
 
-=================
-*Supports varied laptops - 
-=================
+### Supports varied laptops - 
+
 Dell Inspiron, Vostro, XPS,etc are some of the instances of laptops supported by [**Dell driver updates**]() software
 Compatibility with Windows-dell driver update facilitates its Windows users with its prime benefits.
 
-[![Dell driver update ](DELL-DR-UPDATE.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
+[![Dell driver update ](DELL-DR-UPDATE.png)]()
 
 
 
