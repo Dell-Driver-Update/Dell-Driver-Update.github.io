@@ -3,7 +3,7 @@
 
 
 
-[![Dell driver update ](TECH_S.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
+[![Dell driver update ](TECH_S.png)](https://driverupdate.webconnectus.com)
 
 
 
