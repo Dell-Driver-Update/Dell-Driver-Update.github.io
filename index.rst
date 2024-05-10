@@ -10,7 +10,7 @@ Dell Driver Update- The unique link between your Dell PC and Devices
 	  :align: center   
 	  :height: 200px  
 	  :alt: Dell Driver Update  
-	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
+	  :target: https://driverupdate.webconnectus.com
 
 |
 
